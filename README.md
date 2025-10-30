@@ -37,7 +37,9 @@ cd backend
 npm install
 npm start
 
+By default: runs on http://localhost:5000
+
 cd frontend
 npm install
 npm run dev
-By default: runs on http://localhost:5173
+By default: runs on http://localhost:5174
